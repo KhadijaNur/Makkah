@@ -1,0 +1,42 @@
+
+p{
+  font-size: 3rem;
+}
+.header{
+  text-align: center;
+  background:   #ccf5ff;
+  padding: 3% 7%;
+}
+
+.maintext{
+  padding: 8%;
+  text-align: left;
+  }
+.maintext h1{
+  font-size: 5rem;
+  font-weight: bold;
+
+}
+
+.logo{
+  width: 7%;
+  height: auto;
+  padding-right: 4px;
+}
+.experiences{
+  background-color: #99ebff;
+  text-align: center;
+  padding: 5%;
+}
+.experiences img{
+  width: 170px;
+  height: 150px;
+  border-radius: 100%;
+
+}
+.expbox{
+  padding: 3%;
+}
+.experiences h3{
+  padding-bottom: 5%;
+}
