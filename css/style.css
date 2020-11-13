@@ -35,9 +35,12 @@ p{
 
 }
 .expbox{
-  Width: 50%;
   padding: 3%;
 }
+.expbox h3{
+  Width:50%;
+}
+
 .experiences h3{
   padding-bottom: 5%;
 }
